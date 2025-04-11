@@ -25,6 +25,6 @@ A console-based project that works with PGM format files and includes various im
 Project 2: Car Rental Management System<br>
 A Console-Based Car Rental Management System developed in C++.<br><br>
 Project 3: Python Blackjack Game<br>
-My first Python project, a simple Blackjack game.
+My first Python project, a simple Blackjack game.<br><br>
 Project 4: Online Payment Fraud Detection<br>
 My First Project on Machine Learning.
