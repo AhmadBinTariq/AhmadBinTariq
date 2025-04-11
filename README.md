@@ -3,9 +3,8 @@ Hi there, I'm <b>Ahmad Bin Tariq</b>! 👋<br><br>
 I'm currently pursuing a Bachelor's degree in Data Science at the National University of Computer and Emerging Sciences. My interests lie in coding, data analysis, and continuous learning. I'm excited to share my journey and projects with the community!
 
 <br><b>🚀 About Me<b><br>
-📚 Currently Learning: Data Structures in C++ and Python libraries for Data Science.<br>
 🎯 Career Goals: To master Data Science, start freelancing, and explore remote job opportunities.<br>
-💻 Skills: C++, Object-Oriented Programming, Python (in progress), Git, GitHub.<br>
+💻 Skills: C++, Object-Oriented Programming, Python (in progress), Git, GitHub, SQL (MS SQL), Data Preprocessing, Model Evaluation.<br>
 🎮 Hobbies: Gaming, coding, and mentoring others.<br>
 🌱 I’m Working On :<br>
   Developing skills in Data Science and expanding my knowledge in Python.
@@ -15,7 +14,10 @@ I'm currently pursuing a Bachelor's degree in Data Science at the National Unive
 LinkedIn : www.linkedin.com/in/ahmad-bin-tariq-b97184325<br>
 Email : ahmadbintariq19@gmail.com<br><br>
 
-<b>📊 GitHub Stats:</b><br><br>
+<b>📊 GitHub Stats:</b><br>
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadbintariq&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbintariq&layout=compact&theme=radical)
+<br>
 
 💼 Projects<br><br>
 Project 1: Image Processing in C++<br>
