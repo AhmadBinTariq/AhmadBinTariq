@@ -18,13 +18,3 @@ Email : ahmadbintariq19@gmail.com<br><br>
 ![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadbintariq&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadbintariq&layout=compact&theme=radical)
 <br>
-
-💼 Projects<br><br>
-Project 1: Image Processing in C++<br>
-A console-based project that works with PGM format files and includes various image processing functions.<br><br>
-Project 2: Car Rental Management System<br>
-A Console-Based Car Rental Management System developed in C++.<br><br>
-Project 3: Python Blackjack Game<br>
-My first Python project, a simple Blackjack game.<br><br>
-Project 4: Online Payment Fraud Detection<br>
-My First Project on Machine Learning.
